@@ -1,0 +1,20 @@
+ul{
+  list-style: none;
+  font-size: 50px;
+}
+
+li{
+  display: inline-block;
+  text-align: center;
+}
+
+body{
+  background-color: rebeccapurple;
+  color: white;
+  font-family: arial;
+  text-align: center;
+}
+
+#decimal{
+  font-size: 50px;
+}
